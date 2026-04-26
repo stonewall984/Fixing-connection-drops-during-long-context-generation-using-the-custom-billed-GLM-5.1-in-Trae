@@ -8,7 +8,7 @@
  *   http://localhost:8787/v1
  *
  * 【启动代理】
- *   node "c:\Users\admin\Desktop\图景\glm-proxy.js"
+ *   node "文件路径\glm-proxy.js"
  *   或者进入该目录后：node glm-proxy.js
  *
  * 【关闭代理】
